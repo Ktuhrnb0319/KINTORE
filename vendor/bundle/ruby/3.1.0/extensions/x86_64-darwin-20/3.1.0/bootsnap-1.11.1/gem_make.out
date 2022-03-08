@@ -1,0 +1,15 @@
+current directory: /Users/hiii/projects/KINTORE/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.11.1/ext/bootsnap
+/Users/hiii/.rbenv/versions/3.1.1/bin/ruby -I /Users/hiii/.rbenv/versions/3.1.1/lib/ruby/site_ruby/3.1.0 -r ./siteconf20220309-32799-5gwlra.rb extconf.rb
+creating Makefile
+
+current directory: /Users/hiii/projects/KINTORE/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.11.1/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /Users/hiii/projects/KINTORE/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.11.1/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/hiii/projects/KINTORE/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.11.1/ext/bootsnap
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20220309-32799-le5f6t/bootsnap
